@@ -1,15 +1,19 @@
 <a name="br1"></a> 
 <img width="179" alt="image" src="https://github.com/sdarwish13/FaceEmotionRecognition/assets/66074964/d0bee029-57fe-4ff1-89a9-bc80fb74e3ff">
 
+<p align="left">
 **CMPS 287 Artificial Intelligence - Spring 2020-2021**
 
 **Project Report**
 
-***Hadi Najdi** 201804070*
+</p>
+<p align="center">
+  ***Hadi Najdi** 201804070*
 
-***Sara Darwish** 201902020*
+  ***Sara Darwish** 201902020*
 
-***Karim Ghaddar** 201903120*
+  ***Karim Ghaddar** 201903120*
+</p>
 
 Project Abstract:
 
