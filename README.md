@@ -1,7 +1,7 @@
 <a name="br1"></a> 
-<img width="179" alt="image" src="https://github.com/sdarwish13/FaceEmotionRecognition/assets/66074964/d0bee029-57fe-4ff1-89a9-bc80fb74e3ff">
 
-<p align="left">
+<p align="center">
+ <img width="179" alt="image" src="https://github.com/sdarwish13/FaceEmotionRecognition/assets/66074964/d0bee029-57fe-4ff1-89a9-bc80fb74e3ff">
  CMPS 287 Artificial Intelligence - Spring 2020-2021
  <br>
  Project Report
