@@ -6,16 +6,11 @@
 **Project Report**
  
 <p align="center">
-  test
-</p>
- 
-<p align="center">
- 
-  ***Hadi Najdi***
-
-  ***Sara Darwish***
-
-  ***Karim Ghaddar***
+  Hadi Najdi 
+ <br>
+ Sara Darwish
+ <br>
+ Karim Ghaddar
 </p>
 
 Project Abstract:
